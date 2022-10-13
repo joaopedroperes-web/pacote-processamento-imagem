@@ -1,4 +1,4 @@
-# pacote_processamento_imgem
+# pacote_processamento_imagem
 
 Description. 
 O pacote "pacote_processamento_img" é usado para:
@@ -7,7 +7,7 @@ O pacote "pacote_processamento_img" é usado para:
 
 ## Instalar
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar "pacote_processamento_img"
 
 ```bash
 pip install package_name
