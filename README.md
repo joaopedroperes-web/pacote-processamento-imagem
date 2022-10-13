@@ -1,11 +1,11 @@
-# package_name
+# pacote_processamento_imgem
 
 Description. 
-The package package_name is used to:
+O pacote "pacote_processamento_img" é usado para:
 	 
 	
 
-## Installation
+## Instalar
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
@@ -13,15 +13,15 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 pip install package_name
 ```
 
-## Usage
+## Usar
 
 ```python
 from package_name.module1_name import file1_name
 file1_name.my_function()
 ```
 
-## Author
-My_name
+## Autor
+João Pedro Peres
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
